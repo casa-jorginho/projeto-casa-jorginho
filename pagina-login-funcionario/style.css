@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: auto;
+    width: 837.82px;
+    height: 1,056px;
+    gap: 164px;
+    opacity: 0px;
+}
+
+.logo {
+    background-image: url(imagens/logo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    width: 444.69px;
+    height: 538px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+
